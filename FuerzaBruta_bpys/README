@@ -1,0 +1,12 @@
+/*
+ * Implementación practica ataque fuerza bruta, taller aplicación DVWA 02/09/2018
+ * Especialización en ingeniería de software
+ * Electiva buenas practicas y seguridad
+ * Presentado por: 
+ * - Alejandro Paez
+ * - Mauricio Nuñez 
+ * - Nelson Patiño
+ * 
+ * Observaciones: En método setRequest() tener en cuenta el cambio de  PHPSESSID y adecuación de la url
+ * 
+ */
